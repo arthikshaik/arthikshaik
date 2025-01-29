@@ -38,7 +38,7 @@ I am a **Computer Science and Engineering graduate** from **Pace Institute of Te
 
 ### 🔹 **MongoDB, Node.js, Express.js | Intern**  
 🔹 **Conducted by Code Tantra | Jun 2023 – Jul 2023**  
-- Built **backend systems** using **Node.js, Express.js, and MongoDB**.  
+- Built **backend systems** using **Node.js, Express.js, and MongoDB**. 
 - Designed **RESTful APIs** and improved NoSQL database skills.  
 
 ---
