@@ -3,7 +3,6 @@
 🚀 **Aspiring Frontend Developer | Web Enthusiast | Problem Solver**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sk-arthik-20a683289)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/arthikshaik)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=flat&logo=google-chrome&logoColor=white)](https://datascienceportfol.io/arthikshaik1612)  
 📧 **Email:** arthikshaik2001@gmail.com  
 
